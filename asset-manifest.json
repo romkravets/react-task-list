@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-task-list.git/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-task-list.git/static/js/main.abfd9b7d.chunk.js",
-    "main.js.map": "/react-task-list.git/static/js/main.abfd9b7d.chunk.js.map",
+    "main.css": "/react-task-list.git/static/css/main.22d0eb88.chunk.css",
+    "main.js": "/react-task-list.git/static/js/main.8ef1804f.chunk.js",
+    "main.js.map": "/react-task-list.git/static/js/main.8ef1804f.chunk.js.map",
     "runtime~main.js": "/react-task-list.git/static/js/runtime~main.d2c264f4.js",
     "runtime~main.js.map": "/react-task-list.git/static/js/runtime~main.d2c264f4.js.map",
-    "static/js/2.b41502e9.chunk.js": "/react-task-list.git/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/react-task-list.git/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.e6e7b995.chunk.js": "/react-task-list.git/static/js/2.e6e7b995.chunk.js",
+    "static/js/2.e6e7b995.chunk.js.map": "/react-task-list.git/static/js/2.e6e7b995.chunk.js.map",
     "index.html": "/react-task-list.git/index.html",
-    "precache-manifest.f35edf6106798bb1c4f7199ea90119c9.js": "/react-task-list.git/precache-manifest.f35edf6106798bb1c4f7199ea90119c9.js",
+    "precache-manifest.324a23a718dd364ee4bf4713cb7b2f34.js": "/react-task-list.git/precache-manifest.324a23a718dd364ee4bf4713cb7b2f34.js",
     "service-worker.js": "/react-task-list.git/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react-task-list.git/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/react-task-list.git/static/media/logo.5d5d9eef.svg"
+    "static/css/main.22d0eb88.chunk.css.map": "/react-task-list.git/static/css/main.22d0eb88.chunk.css.map"
   }
 }
